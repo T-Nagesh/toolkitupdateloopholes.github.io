@@ -11,5 +11,5 @@ A template is provided to help you describe the project, asking to specify some 
 ![Alt text]({{ site.baseurl }}/images/0.Describe_project.jpg)
 
 
-![Project description]([{{ site.baseurl }}/images/0.Describe_project.jpg](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/images/0.Describe_project.jpg.html))
+![Project description](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/images/0.Describe_project.jpg.html))
 
