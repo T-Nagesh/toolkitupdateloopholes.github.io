@@ -8,8 +8,6 @@ A template is provided to help you describe the project, asking to specify some 
 - Future goals
 - What makes you different?
 
-![Alt text]({{ site.baseurl }}/images/0.Describe_project.jpg)
 
-
-![Project description](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/images/0.Describe_project.jpg))
+![Project description](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/images/0.Describe_project.jpg)
 
