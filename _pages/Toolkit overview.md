@@ -8,3 +8,4 @@ Furthermore, it fosters brainstorming on actionable strategies aligned with EU s
 
 ## Toolkit Components
 
+[Strategy Cards] (category/toolkit components)
