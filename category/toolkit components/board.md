@@ -5,8 +5,5 @@ The game board comprises four quadrants: Design, Produce, Use, and Information M
 
 ![Main board](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/images/mainboard@300x-100.jpg)
 
-<div style="text-align: center;">
-  
-</div>
-
 [Download PDF](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/images/mainboard.pdf)
+
