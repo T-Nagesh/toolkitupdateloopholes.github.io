@@ -8,4 +8,4 @@ Furthermore, it fosters brainstorming on actionable strategies aligned with EU s
 
 ## Toolkit Components
 
-[Strategy Cards] (https://t-nagesh.github.io/toolkitupdateloopholes.github.io/_category/toolkit%20components/cards.html)
+[Strategy Cards] (https://t-nagesh.github.io/toolkitupdateloopholes.github.io/category/toolkit%20components/cards.html)
