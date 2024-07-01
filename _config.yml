@@ -23,7 +23,7 @@ email: fashion.research@hva.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Loopholes is not a typical toolkit; it's a catalyst for change, designed to bring together professionals from different backgrounds and empower them to explore sustainable and digital solutions. 
 baseurl: "/toolkitupdateloopholes" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://t-nagesh.github.io/toolkitupdateloopholes.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: loopholes
 github_username:  T-Nagesh
 
