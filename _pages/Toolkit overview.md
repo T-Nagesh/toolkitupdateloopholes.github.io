@@ -8,6 +8,6 @@ Furthermore, it fosters brainstorming on actionable strategies aligned with EU s
 
 ## Toolkit Components
 
-- [Project description](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/category/toolkit%20components/project20%description.html)
+- [Project description](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/category/toolkit%20components/project_description.html)
 - [Main board](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/category/toolkit%20components/board.html)
 - [Strategy Cards](https://t-nagesh.github.io/toolkitupdateloopholes.github.io/category/toolkit%20components/cards.html)
