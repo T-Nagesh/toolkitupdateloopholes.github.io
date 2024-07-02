@@ -33,6 +33,7 @@
     padding: 30px;
     font-size: 1vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
+    margin: auto;
   }
 
   /* Responsive adjustments */
