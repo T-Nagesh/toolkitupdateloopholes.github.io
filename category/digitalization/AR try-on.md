@@ -38,7 +38,7 @@
   /* Responsive adjustments */
   @media (max-width: 400px) {
     .overlay-text {
-      font-size: 1.2vw;
+      font-size: 1.5vw;
       position: centre;
     }
   }
