@@ -20,7 +20,7 @@
     color: black;
     background-color: rgba(0, 0, 0, 0);
     padding: 10px;
-    font-size: 3vw; /* Use viewport width units for relative sizing */
+    font-size: 3vw/10; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
 </style>
