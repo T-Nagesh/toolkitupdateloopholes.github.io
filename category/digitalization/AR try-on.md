@@ -24,21 +24,21 @@
   }
 
   .overlay-text {
-    position: absolute;
+    position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
-    padding: 5px;
-    font-size: 1vw; /* Use viewport width units for relative sizing */
+    padding: 10px;
+    font-size: 2vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
 
   /* Responsive adjustments */
   @media (max-width: 600px) {
     .overlay-text {
-      font-size: 1vw;
+      font-size: 2vw;
     }
   }
 </style>
