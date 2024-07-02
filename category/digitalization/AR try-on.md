@@ -39,6 +39,7 @@
   @media (max-width: 400px) {
     .overlay-text {
       font-size: 1vw;
+      position: centre;
     }
   }
 </style>
