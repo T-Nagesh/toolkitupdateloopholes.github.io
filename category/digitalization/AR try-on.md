@@ -4,9 +4,9 @@
   <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
 	
   <div class="overlay-text">
-    <h2> AR Try-on
+    <h4> AR Try-on
     
-    </h2>
+    </h4>
 	  Augmented Reality (AR) for clothing and textiles can bridge the gap between digital and physical retail by using phones, VR and computer cameras to create a realistic virtual representation of a product over the users body in real-time for physical and digital fashion.
 
     <h6> 
