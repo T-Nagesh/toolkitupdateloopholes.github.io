@@ -1,43 +1,8 @@
 ## AR try-on
 
-<div style="position: centre; width: 100%; max-width: 600px; margin: auto;">
-  <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;">
-  <div class="overlay-text">
-    <h3>AR-Try On</h3> 
-    <b>AR Try-on, also known as Augmented Reality Try-on, refers to the use of augmented reality technology to allow customers to virtually try on clothing, accessories, or other fashion items. It involves superimposing digital representations of products onto a live camera feed, enabling users to see how the items would look on them in real-time or through uploaded photos.
-
-	AR Try-on provides a virtual fitting experience, enhances customer engagement, reduces return rates, offers personalized shopping experiences, bridges online and offline shopping, contributes to sustainability, and generates valuable data for trend forecasting. By exploiting the potential of AR Try-on, fashion brands can create immersive and interactive experiences for their customers, ultimately driving sales, reducing waste, and staying at the forefront of digital innovation in the industry. 
-	</b>
-  </div>
-</div>
-
-<style>
-  .overlay-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: black;
-    background-color: rgba(0, 0, 0, 0);
-    padding: 0.1vw;
-    max-width: 600px;
-    font-size: 1vw/20; /* Use viewport width units for relative sizing */
-    text-align: center; /* Center align the text */
-  }
-</style>
-
-
-
----
-layout: default
-title: Example Page
-permalink: /example/
----
-
-# Example Page
-
 <div class="image-container">
-  <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%"; class="responsive-image">
+  <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+	
   <div class="overlay-text">
     AR Try-on, also known as Augmented Reality Try-on, refers to the use of augmented reality technology to allow customers to virtually try on clothing, accessories, or other fashion items. It involves superimposing digital representations of products onto a live camera feed, enabling users to see how the items would look on them in real-time or through uploaded photos.
 
@@ -47,14 +12,14 @@ permalink: /example/
 
 <style>
   .image-container {
-    position: relative;
-    width: 100%;
+    position: centre;
+    width: 60%;
     max-width: 600px;
     margin: auto;
   }
 
   .responsive-image {
-    width: 100%;
+    width: 60%;
     height: auto;
   }
 
@@ -66,14 +31,14 @@ permalink: /example/
     color: black;
     background-color: rgba(0, 0, 0, 0);
     padding: 5px;
-    font-size: .1vw; /* Use viewport width units for relative sizing */
+    font-size: 1vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
 
   /* Responsive adjustments */
   @media (max-width: 600px) {
     .overlay-text {
-      font-size: .1vw;
+      font-size: 1vw;
     }
   }
 </style>
