@@ -25,8 +25,8 @@
 
   .overlay-text {
     position: centre;
-    top: 10%;
-    left: 10%;
+    top: 60%;
+    left: 60%;
     transform: translate(-60%, -60%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
