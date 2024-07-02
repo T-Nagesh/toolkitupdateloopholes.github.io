@@ -12,7 +12,7 @@
 
 <style>
   .image-container {
-    position: centre;
+    position: relative;
     width: 60%;
     max-width: 600px;
     margin: auto;
