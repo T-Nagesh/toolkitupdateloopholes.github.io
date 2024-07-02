@@ -27,18 +27,18 @@
     position: centre;
     top: 10%;
     left: 10%;
-    transform: translate(-50%, -50%);
+
     color: black;
     background-color: rgba(0, 0, 0, 0);
     padding: 10px;
-    font-size: 1vw; /* Use viewport width units for relative sizing */
+    font-size: 0.8vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
 
   /* Responsive adjustments */
   @media (max-width: 600px) {
     .overlay-text {
-      font-size: 1vw;
+      font-size: 0.8vw;
     }
   }
 </style>
