@@ -29,7 +29,7 @@ How can using Augmented Reality (like trying on clothes with your phone) make fa
 
   .overlay-text {
     position: absolute;
-    top: 43.5%;
+    top: 44.5%;
     left: 43.5%;
     transform: translate(-60%, -60%);
     color: black;
