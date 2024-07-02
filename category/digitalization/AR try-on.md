@@ -15,7 +15,7 @@
     position: relative;
     width: 90%;
     max-width: 600px;
-    margin: auto;
+    margin: centre;
   }
 
   .responsive-image {
