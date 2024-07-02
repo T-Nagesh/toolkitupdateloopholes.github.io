@@ -19,7 +19,8 @@
     transform: translate(-50%, -50%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
-    padding: 2vw;
+    padding: 0.1vw;
+    max-width: 600px;
     font-size: 1vw/20; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
