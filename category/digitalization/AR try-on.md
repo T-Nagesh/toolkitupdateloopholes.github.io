@@ -19,7 +19,7 @@
     transform: translate(-50%, -50%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
-    padding: 10px;
+    padding: 5vw;
     font-size: 3vw/10; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
