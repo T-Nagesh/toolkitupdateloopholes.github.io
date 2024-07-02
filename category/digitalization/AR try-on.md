@@ -1,6 +1,6 @@
 ## AR try-on
 
-<div style="position: relative; width: 100%; max-width: 600px; margin: auto;">
+<div style="position: centre; width: 100%; max-width: 600px; margin: auto;">
   <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;">
   <div class="overlay-text">
     <h3>AR-Try On</h3> 
