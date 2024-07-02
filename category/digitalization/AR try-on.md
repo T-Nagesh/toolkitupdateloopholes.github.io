@@ -9,10 +9,10 @@
 	  Augmented Reality (AR) for clothing and textiles can bridge the gap between digital and physical retail by using phones, VR and computer cameras to create a realistic virtual representation of a product over the users body in real-time for physical and digital fashion.
 
     
-**VET question**
+** VET question **
 How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?
  <h7> 	 
-HEI question
+### HEI question
  </h7> 	
   What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion mnufacturing, retail, use, or recycling?
   
