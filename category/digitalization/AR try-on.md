@@ -73,7 +73,7 @@ permalink: /example/
   /* Responsive adjustments */
   @media (max-width: 600px) {
     .overlay-text {
-      font-size: 4vw;
+      font-size: .1vw;
     }
   }
 </style>
