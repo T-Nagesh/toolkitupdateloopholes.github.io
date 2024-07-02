@@ -45,7 +45,7 @@ How can using Augmented Reality (like trying on clothes with your phone) make fa
   /* Responsive adjustments */
   @media (max-width: 600px) {
     .overlay-text {
-      font-size: 1.8vw;
+      font-size: 1.7vw;
       position: centre;
     }
   }
