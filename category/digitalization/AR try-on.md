@@ -4,17 +4,16 @@
   <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
 	
   <div class="overlay-text">
-    <h4> __AR Try-on__
-    </h4>
+    <h3> AR Try-on
+    </h3>
 	  Augmented Reality (AR) for clothing and textiles can bridge the gap between digital and physical retail by using phones, VR and computer cameras to create a realistic virtual representation of a product over the users body in real-time for physical and digital fashion.
 
-    <h6> 
-__VET question__
-  </h6>
+    
+**VET question**
 How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?
- <h6> 	 
-__HEI question__
- </h6> 	
+ <h7> 	 
+HEI question
+ </h7> 	
   What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion mnufacturing, retail, use, or recycling?
   
   </div>
