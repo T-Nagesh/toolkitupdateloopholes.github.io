@@ -13,8 +13,10 @@
 VET question
   </h5> 
 How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?
+<p style="margin-top: 0;">This paragraph follows the heading without any top margin.</p>
  <h5> 	 
 HEI question
+	 <p style="margin-top: 0;">This paragraph follows the heading without any top margin.</p>
  </h5> 
   What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion mnufacturing, retail, use, or recycling?
   
