@@ -19,27 +19,26 @@
   }
 
   .responsive-image {
-    width: 60%;
+    width: 100%;
     height: auto;
   }
 
   .overlay-text {
     position: absolute;
-    top: 60%;
-    left: 60%;
+    top: 50%;
+    left: 50%;
     transform: translate(-60%, -60%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
-    padding: 30px;
+    padding: 50px;
     font-size: 1vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
-    margin: auto;
   }
 
   /* Responsive adjustments */
   @media (max-width: 400px) {
     .overlay-text {
-      font-size: 1vw;
+      font-size: 0.9vw;
       position: centre;
     }
   }
