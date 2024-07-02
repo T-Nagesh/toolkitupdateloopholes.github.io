@@ -30,7 +30,7 @@
     transform: translate(-60%, -60%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
-    padding: 50px;
+    padding: 5px;
     font-size: 1vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
   }
