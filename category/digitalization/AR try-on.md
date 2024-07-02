@@ -28,7 +28,7 @@
 
   .overlay-text {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 43.5%;
     transform: translate(-60%, -60%);
     color: black;
