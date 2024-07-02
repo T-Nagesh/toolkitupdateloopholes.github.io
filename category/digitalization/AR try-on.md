@@ -27,7 +27,7 @@
     position: centre;
     top: 10%;
     left: 10%;
-    transform: translate(-50%, -50%);
+    transform: translate(-60%, -60%);
     color: black;
     background-color: rgba(0, 0, 0, 0);
     padding: 30px;
@@ -38,7 +38,7 @@
   /* Responsive adjustments */
   @media (max-width: 400px) {
     .overlay-text {
-      font-size: 0.8vw;
+      font-size: 1vw;
     }
   }
 </style>
