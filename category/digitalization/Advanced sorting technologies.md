@@ -1,4 +1,51 @@
 ﻿## Advanced sorting technologies
+<div class="image-container">
+  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+
+  <div class="overlay-text">
+    <h3> Advanced sorting technologies  </h3>
+	  Augmented Reality (AR) for clothing and textiles can bridge the gap between digital and physical retail by using phones, VR and computer cameras to create a realistic virtual representation of a product over the users body in real-time for physical and digital fashion.
+<h6> VET question </h6>
+How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?	 
+<h6> HEI question </h6>
+  What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion manufacturing, retail, use, or recycling?
+
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 47%;
+    left: 43.5%;
+    transform: translate(-60%, -60%);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    font-size: 0.9vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 1.7vw;
+      position: centre;
+    }
+  }
+</style>
 
 Advanced sorting technologies refer to innovative and technologically advanced systems and processes used to sort and categorize fashion products for the purpose of digital recycling and upcycling. These technologies leverage cutting-edge methods, such as machine vision, artificial intelligence, and data analytics, to efficiently and accurately identify, classify, and separate garments and materials based on their suitability for recycling or upcycling.
 
