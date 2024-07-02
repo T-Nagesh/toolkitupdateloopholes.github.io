@@ -13,9 +13,9 @@
 <style>
   .image-container {
     position: relative;
-    width: 90%;
+    width: 100%;
     max-width: 600px;
-    margin: centre;
+    margin: auto;
   }
 
   .responsive-image {
