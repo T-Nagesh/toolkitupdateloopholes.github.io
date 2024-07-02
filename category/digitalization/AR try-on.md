@@ -14,7 +14,7 @@ How can using Augmented Reality (like trying on clothes with your phone) make fa
  <h7> 	 
 ### HEI question
  </h7> 	
-  What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion mnufacturing, retail, use, or recycling?
+  What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion manufacturing, retail, use, or recycling?
   
   </div>
 </div>
