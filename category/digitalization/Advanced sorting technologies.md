@@ -1,6 +1,6 @@
 ﻿## Advanced sorting technologies
 <div class="image-container">
-  <img src="https://troykyo.github.io/dssloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
+  <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
 
   <div class="overlay-text">
     <h3> Advanced sorting technologies  </h3>
