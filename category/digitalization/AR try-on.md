@@ -10,10 +10,8 @@
 
     
 ** VET question **
-How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?
- <h7> 	 
+How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?	 
 ### HEI question
- </h7> 	
   What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion manufacturing, retail, use, or recycling?
   
   </div>
