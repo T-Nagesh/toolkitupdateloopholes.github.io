@@ -24,7 +24,7 @@
   }
 
   .overlay-text {
-    position: relative;
+    position: absolute;
     top: 60%;
     left: 60%;
     transform: translate(-60%, -60%);
