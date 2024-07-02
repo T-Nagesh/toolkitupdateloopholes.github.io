@@ -27,6 +27,59 @@
 </style>
 
 
+
+---
+layout: default
+title: Example Page
+permalink: /example/
+---
+
+# Example Page
+
+<div class="image-container">
+  <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%"; class="responsive-image">
+  <div class="overlay-text">
+    AR Try-on, also known as Augmented Reality Try-on, refers to the use of augmented reality technology to allow customers to virtually try on clothing, accessories, or other fashion items. It involves superimposing digital representations of products onto a live camera feed, enabling users to see how the items would look on them in real-time or through uploaded photos.
+
+	AR Try-on provides a virtual fitting experience, enhances customer engagement, reduces return rates, offers personalized shopping experiences, bridges online and offline shopping, contributes to sustainability, and generates valuable data for trend forecasting. By exploiting the potential of AR Try-on, fashion brands can create immersive and interactive experiences for their customers, ultimately driving sales, reducing waste, and staying at the forefront of digital innovation in the industry. 
+  </div>
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    font-size: 5vw; /* Use viewport width units for relative sizing */
+    text-align: center; /* Center align the text */
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .overlay-text {
+      font-size: 4vw;
+    }
+  }
+</style>
+
+
+
 #### Virtual fitting experience
 
 AR Try-on offers a virtual fitting experience to customers, allowing them to visualize how clothing and accessories would look and fit on their own bodies without physically trying them on. By leveraging the power of augmented reality, users can virtually see themselves wearing different garments, experimenting with various styles, colors, and sizes. This immersive experience enhances the convenience and accessibility of trying on fashion items.
