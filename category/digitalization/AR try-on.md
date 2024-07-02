@@ -13,12 +13,12 @@
 
 <style>
   .overlay-text {
-    position: absolute;
+    position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
-    background-color: rgba(0, 0, 0, 0.5);
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
     padding: 10px;
     font-size: 3vw; /* Use viewport width units for relative sizing */
     text-align: center; /* Center align the text */
