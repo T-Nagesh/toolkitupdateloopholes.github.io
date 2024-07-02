@@ -11,11 +11,11 @@
 
     <h5> 
 VET question
-  </h5> <p style="margin-top: 0;">This paragraph follows the heading without any top margin.</p>
+  </h5>
 How can using Augmented Reality (like trying on clothes with your phone) make fashion more fun and useful?
  <h5> 	 
 HEI question
- </h5> 	 <p style="margin-top: 0;">This paragraph follows the heading without any top margin.</p>
+ </h5> 	
   What are the potential benefits and challenges of implementing Augmented Reality technology in the fashion mnufacturing, retail, use, or recycling?
   
   </div>
