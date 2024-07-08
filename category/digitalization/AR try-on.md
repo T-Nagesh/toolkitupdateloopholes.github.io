@@ -111,7 +111,10 @@ Zak, Marlene. _Augmented Reality try-on adoption in the Online Clothing Industry
 
 Plotkina, Daria, and Hélène Saurel. "Me or just like me? The role of virtual try-on and physical appearance in apparel M-retailing." _Journal of Retailing and Consumer Services_ 51 (2019): 362-377.
 
+data call
+{% assign data = site.data.data %}
 
+{{ data[1].DESCRIPTION }}
 
 ---
 layout: default
