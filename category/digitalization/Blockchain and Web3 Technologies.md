@@ -3,7 +3,7 @@
   <img src="https://t-nagesh.github.io/toolkitupdateloopholes.github.io/assets/Dcard.png" alt="Dcard" style="width: 75%;" class="responsive-image">
 	
   <div class="overlay-text">
-    <h6> Blockchain and Unique ID technologies </h6>
+    <h3> Blockchain and Unique ID technologies </h3>
 Tracking every garment and who is wearing it is a complex process. Web3 uses Blockchain technology to create decentralized systems that log data about the life-cycles without central authorities, promoting stakeholder empowerment.
     <h6> VET question </h6>
 How can blockchain technology help track and trace garments, ensuring fairness throughout the fashion value chain?<h6> HEI question </h6>
