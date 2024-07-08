@@ -100,3 +100,7 @@ titles_from_headings:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+csv_data:
+  - name: data_cards
+    path: "_assets/Cards V2 MASTER.csv"
+    exclude_header: true
